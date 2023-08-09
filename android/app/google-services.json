@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "397874331557",
+    "project_id": "shop-map-5c223",
+    "storage_bucket": "shop-map-5c223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397874331557:android:ecc2898482d2202d79724c",
+        "android_client_info": {
+          "package_name": "com.example.shop_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397874331557-1b0ib4cd74h3u986eeamleid6hc83b7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhCyvajg_f_jUM03XDpY5VY6e9ctMhFVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397874331557-1b0ib4cd74h3u986eeamleid6hc83b7a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "397874331557-380v1rh94o02c4fmapvu8e3f9th7i55e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopMap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
