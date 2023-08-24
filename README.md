@@ -10,10 +10,12 @@ Welcome to the Local Shops Map UI project! This project aims to provide users wi
 - **Offers and Promotions**: Discover the latest offers and promotions available in nearby shops.
 - **User-Friendly**: The user interface is designed to be simple and intuitive, ensuring a seamless experience for users.
 
-## Screenshots
-
 ## Technologies Used
 Flutter: UI framework for building natively compiled applications for mobile, web, and desktop from a single codebase.
 Google Maps API: Used to display the map interface and show shop locations.
 State Management (Provider): Used to manage app state and data flow.
 GeoLocator (package): Used to get the user location.
+
+## Screenshots
+
+
