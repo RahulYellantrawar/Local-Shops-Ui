@@ -11,7 +11,7 @@ Welcome to the Local Shops Map UI project! This project aims to provide users wi
 - **User-Friendly**: The user interface is designed to be simple and intuitive, ensuring a seamless experience for users.
 
 ## Technologies Used
-Flutter: UI framework for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- Flutter: UI framework for building natively compiled applications for mobile, web, and desktop from a single codebase.
 Google Maps API: Used to display the map interface and show shop locations.
 State Management (Provider): Used to manage app state and data flow.
 GeoLocator (package): Used to get the user location.
